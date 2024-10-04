@@ -1,0 +1,11 @@
+bindPort = 7000
+
+dashboard_port = 7500
+dashboard_user = "admin"
+dashboard_pwd = "admin"
+
+auth.method = "token"
+auth.token = "Kx123456"
+
+vhost_http_port = 10080
+vhost_https_port = 10443
